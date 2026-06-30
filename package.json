@@ -1,0 +1,26 @@
+{
+  "name": "somiibo-social-media-automation",
+  "version": "1.0.0",
+  "description": "Social Media Automation automates your social media marketing across multiple platforms",
+  "main": "src/index.js",
+  "scripts": {
+    "start": "node src/index.js"
+  },
+  "keywords": [
+    "social-media-automation",
+    "automation",
+    "social-media-marketing",
+    "growth",
+    "marketing",
+    "javascript",
+    "nodejs",
+    "saas"
+  ],
+  "author": "Somiibo",
+  "license": "ISC",
+  "homepage": "https://somiibo.com",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/somiibo/social-media-automation.git"
+  }
+}
